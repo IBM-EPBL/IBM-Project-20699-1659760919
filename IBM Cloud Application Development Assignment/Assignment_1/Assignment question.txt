@@ -1,1 +1,0 @@
-To develop a sample homepage with html and CSS, which should include a banner, an image and a description about yourself and a contact form.
